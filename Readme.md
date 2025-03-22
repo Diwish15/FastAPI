@@ -14,8 +14,8 @@ This project demonstrates Continuous Delivery by automating the creation and dep
 ### 🔹 Steps
 1️⃣ **Clone the repository:**
    ```sh
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Diwish15/FastAPI
+   cd FastAPI
    ```
 2️⃣ **Install dependencies:**
    ```sh
@@ -66,5 +66,3 @@ This project demonstrates Continuous Delivery by automating the creation and dep
 ## 📤 Submission Details
 🔗 **GitHub Repository URL:** [https://github.com/diwish345/fastapi-app](https://github.com/diwish345/fastapi-app)
 🌍 **Docker Hub Image URL:** [https://hub.docker.com/r/diwish345/fastapi-app](https://hub.docker.com/r/diwish345/fastapi-app)
-
-📌 **Now you're all set!** Push your code and let GitHub Actions handle the deployment automatically. 🚀🎉
